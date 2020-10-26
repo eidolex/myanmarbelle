@@ -1756,7 +1756,7 @@ Fisherman Section CSS
 
 .about-shape-image {
     position: absolute;
-    top: 90px;
+    top: 350px;
     z-index: -1;
 }
 
@@ -1767,6 +1767,11 @@ Fisherman Section CSS
 
 .w-40 {
   width: 40%;
+}
+
+.info th {
+    width: 200px;
+    vertical-align: middle;
 }
 
 /*================================================
