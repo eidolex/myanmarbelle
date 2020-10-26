@@ -9,6 +9,11 @@ body {
   font-size: 16px;
 }
 
+.navbar-light .navbar-brand {
+    color: #fff200 !important;
+    font-family: serif, Times New Roman;
+}
+
 .d-table {
   width: 100%;
   height: 100%;
@@ -1386,7 +1391,7 @@ Navbar Area CSS
   }
   .trifles-responsive-nav .logo {
     position: relative;
-    width: 50%;
+    width: 90%;
     z-index: 999;
   }
   .navbar-area {
@@ -1715,7 +1720,7 @@ Fisherman Section CSS
 
 .testimonials-section {
     position: relative;
-    background-image: url(../img/testimonials-bg.png);
+    background-image: url(../img/vision-mision.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -1723,7 +1728,7 @@ Fisherman Section CSS
 }
 
 .company_vision_mision.testimonials-section .col-lg-5 {
-    background: #fffc;
+    background: #fff;
     margin: 60px auto;
     padding: 20px 30px;
     border-radius: 25px;
