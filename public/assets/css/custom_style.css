@@ -1394,6 +1394,10 @@ Navbar Area CSS
     width: 90%;
     z-index: 999;
   }
+  .trifles-responsive-nav .logo a{
+    color: #fff200 !important;
+    font-family: serif, Times New Roman;
+  }
   .navbar-area {
     background-color: #ffffff;
     position: absolute;
